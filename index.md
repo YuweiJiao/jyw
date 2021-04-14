@@ -18,16 +18,16 @@
 
 ---
 
-Master student at the Southwest Minzu University. His research interest covers quantum inspired algorithm, high performance computing.
+Master student at the Southwest Minzu University. His research interest covers quantum inspired algorithm, high performance computing.
 
 ---
 
 ### 最新消息
-1. 消息1×××
+1. 基于种群个体数自适应的多尺度量子谐振子优化算法[J/OL].自动化学报:1-13[2021-04-14].https://doi.org/10.16383/j.aas.c200247.
 
 ### 研究方向
-- 文本挖掘
-- 知识图谱
+- 量子算法
+- 群体智能
 
 ### 荣誉奖励
 - 奖学金
